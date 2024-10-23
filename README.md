@@ -20,7 +20,9 @@ Return the computed hash value.
 Test the hash function with different strings to observe how the output varies.
 
 ## PROGRAM :
-```C
+```
+NAME:VESLIN ANISH A
+REGISTER NO:212223240175
 #include <stdio.h>
 #include <string.h>
 
@@ -57,7 +59,8 @@ int main() {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/5a000cc7-4aee-486e-bd8b-43304a098218)
+
+![Screenshot 2024-10-23 232022](https://github.com/user-attachments/assets/723b60a2-fb47-417f-8690-44cbb2ea0776)
 
 
 
